@@ -6,6 +6,8 @@
 
 ---
 
+https://github.com/Sivaprasad-creator/Face-Mask-Detection/blob/a873fc61259bed6752314a8c9500071295e937b1/Face%20Mask.png
+
 ## 📌 Project Overview
 
 This project implements a **real-time face mask detection system** using deep learning and computer vision. It detects faces from webcam feed using OpenCV and classifies whether a person is wearing a mask or not using a fine-tuned **MobileNetV2 CNN model**.
