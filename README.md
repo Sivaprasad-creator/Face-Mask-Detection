@@ -6,7 +6,7 @@
 
 ---
 
-https://github.com/Sivaprasad-creator/Face-Mask-Detection/blob/a873fc61259bed6752314a8c9500071295e937b1/Face%20Mask.png
+![image alt](https://github.com/Sivaprasad-creator/Face-Mask-Detection/blob/a873fc61259bed6752314a8c9500071295e937b1/Face%20Mask.png)
 
 ## 📌 Project Overview
 
