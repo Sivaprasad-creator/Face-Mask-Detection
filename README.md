@@ -61,6 +61,15 @@ This project implements a **real-time face mask detection system** using deep le
 
 ---
 
+## Model Preview
+
+![image alt](https://github.com/Sivaprasad-creator/Face-Mask-Detection/blob/d0b6a45bc35e4257059c40050233b71a50720005/Mask%20Detected.png)
+
+![image alt](https://github.com/Sivaprasad-creator/Face-Mask-Detection/blob/d0b6a45bc35e4257059c40050233b71a50720005/No%20Mask%20Detected.png)
+
+
+---
+
 ## 🚀 How to Run Locally
 
 1. **Download the Dataset**  
