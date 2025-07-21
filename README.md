@@ -113,8 +113,8 @@ This project implements a **real-time face mask detection system** using deep le
 
 **Sivaprasad T.R**  
 📧 Email: [sivaprasadtrwork@gmail.com](mailto:sivaprasadtrwork@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/sivaprasad-t-r](https://www.linkedin.com/in/sivaprasad-t-r)  
-💻 GitHub: [github.com/Sivaprasad-creator](https://github.com/Sivaprasad-creator)
+🔗 [LinkedIn](https://www.linkedin.com/in/sivaprasad-t-r)  
+💻 [GitHub](https://github.com/Sivaprasad-creator)
 
 ---
 
